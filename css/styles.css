@@ -127,7 +127,7 @@ fill:currentColor;
     height: 600px;
     margin-left: auto;
     margin-right: auto;
-    background-image:linear-gradient(to right,rgba(47, 48, 58, 0.4),rgba(47, 48, 58, 0.4)), url(../images/Hero/Img-bcg.jpg);
+    background-image:linear-gradient(to right,rgba(47, 48, 58, 0.4),rgba(47, 48, 58, 0.4)), url(../images/hero/img-bcg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
